@@ -4,6 +4,8 @@
 <a href="https://packagist.org/packages/davidvandertuijn/empty_except_zero"><img src="https://poser.pugx.org/davidvandertuijn/empty_except_zero/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/davidvandertuijn/empty_except_zero"><img src="https://poser.pugx.org/davidvandertuijn/empty_except_zero/license.svg" alt="License"></a>
 
+![Empty Except Zero](https://cdn.davidvandertuijn.nl/github/empty_except_zero.png)
+
 |                          | empty | empty_except_zero |
 |--------------------------|-------|-------------------|
 | "" (an empty string)     | TRUE  | TRUE              |
