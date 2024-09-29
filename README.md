@@ -6,6 +6,10 @@
 
 ![Empty Except Zero](https://cdn.davidvandertuijn.nl/github/empty_except_zero.png)
 
+The “Empty Except Zero” tool is designed to streamline data management by identifying and handling numerical values in datasets. This functionality is particularly useful in scenarios where it’s important to differentiate between zero values and truly empty or null entries.
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/davidvandertuijn)
+
 |                          | empty | empty_except_zero |
 |--------------------------|-------|-------------------|
 | "" (an empty string)     | TRUE  | TRUE              |
